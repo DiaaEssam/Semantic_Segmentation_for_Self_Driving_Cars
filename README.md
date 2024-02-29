@@ -1,5 +1,3 @@
-Certainly! Here's an example of a Readme file for the project with a table of contents:
-
 # Semantic Segmentation for Self-Driving Cars
 
 This repository contains code and notebooks for semantic segmentation in the context of self-driving cars.
